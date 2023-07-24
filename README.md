@@ -1,8 +1,8 @@
 # Quantum Information & Computing: lab reports
 
 ## About this project
-QI&C lab reports UniPD:
-* CHSH inequality violation: Bell's states;
+QI&C lab reports as follows:
+* CHSH inequality violation: entangled states;
 * Quantum Tomography: MLE reconstruction on noisy data.
 
 ## Reference
